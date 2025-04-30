@@ -66,12 +66,12 @@
     }
     .feedback .wrap .title_description h1 {
       font-size: 20px;
-      font-weight: 600;
+      font-weight: 601px;
       line-height: 28px;
     }
     .feedback .wrap .title_description p {
       font-size: 12px;
-      line-height: 18px;
+      line-height: 19px;
     }
   
     .advantage {
@@ -89,7 +89,7 @@
     }
     .advantage .advantage_wrap .box p {
       font-size: 12px;
-      line-height: 18px;
+      line-height: 19px;
     }
   
     .designer .mask_box {
@@ -112,7 +112,7 @@
     .designer .mask_box .mask_box_title p {
       margin: 28px 0 20px 0;
       font-size: 12px;
-      line-height: 18px;
+      line-height: 19px;
     }
     .designer .mask_box > img {
       display: none;
@@ -200,12 +200,12 @@
     }
     footer .top_footer .inside_top ul li a,
     footer .top_footer .inside_bottom ul li a {
-      color: #000 !important;
+      color: #090909 !important;
     }
     footer .top_footer .inside_top ul li a:hover,
     footer .top_footer .inside_bottom ul li a:hover {
       text-decoration: underline;
-      color: rgb(255, 47, 84) !important;
+      color: rgb(247, 29, 69) !important;
     }
     footer .top_footer .inside_top .box .inner_box,
     footer .top_footer .inside_bottom .box .inner_box {
